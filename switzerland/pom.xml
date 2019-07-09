@@ -17,6 +17,19 @@
 			<artifactId>core</artifactId>
 			<version>1.0.0</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>ch.ethz.idsc</groupId>
+			<artifactId>amodeus</artifactId>
+			<version>1.7.8</version>
+		</dependency>
+
+		<dependency>
+			<groupId>ch.ethz.idsc</groupId>
+			<artifactId>amodidsc</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
 	</dependencies>
 
 	<profiles>
